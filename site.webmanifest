@@ -1,24 +1,20 @@
 {
   "name": "LING Studio｜創作與成長工作室",
   "short_name": "LING Studio",
-  "description": "創作、排程與每日復盤",
-  "lang": "zh-TW",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#F8F4EE",
-  "theme_color": "#F8F4EE",
+  "background_color": "#f8f4ee",
+  "theme_color": "#f8f4ee",
   "icons": [
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
       "src": "/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ]
 }
